@@ -1,169 +1,289 @@
-# Welcome, Adventurer! I'm Alyssa 🌱🏳️‍⚧️
+<div align="center">
 
-Embark on a vibrant journey through my code and contributions. I believe in crafting solutions that not only innovate but also nurture our planet and champion a more inclusive world. Let's explore the pathways of development, discovery, and diversity together!
+<br>
 
----
+<!-- Header typography via image-free approach using HTML in GH markdown -->
 
-## Your Quest Begins: Choose Your Path! 🗺️🌈
+```
 
-To uncover my story, select a path below. Each choice will lead you to different insights into my skills and passions, all woven with a thread of pride and purpose:
+```
 
-- **[Explore My Skill Tree](#my-skill-tree-growth--mastery-):** Discover the technologies I've mastered and am currently learning.
-- **[Uncover My Achievements](#my-achievements-milestones-unlocked-):** See the milestones I've reached on my coding journey.
-- **[Dive into My Environmental Projects](#environmental-projects-cultivating-change-):** Learn about my dedication to green tech and sustainability.
-- **[Take a Mini-Challenge](#mini-challenge-test-your-logic-):** Test your wits with a quick coding puzzle!
-- **[See What I'm Up To Right Now](#my-current-expedition-):** View my live coding/listening status.
-
----
-
-## My Skill Tree: Growth & Mastery 🌳
-
-My skills are ever-growing, like a flourishing forest. Each node represents a technology I've cultivated. A vibrant color means I'm actively using or mastering it!
-
-> _Note: The following is a conceptual skill tree. For a visual version, see my portfolio site!_
-
-### Core Programming Skills 🖥️💖
-
-- **Languages:** Python, JavaScript, Java, C++, HTML5, CSS3
-- **Concepts:** Data Structures, Algorithms, Object-Oriented Programming, RESTful APIs, Databases
-- **Philosophy:** Crafting clean, readable, and efficient code that empowers positive change.
-
-### Web Development Journey 🌐🏳️‍🌈
-
-Building interactive and responsive web experiences that connect and empower:
-
-- **Frontend:** React, HTML5, CSS3 (Tailwind CSS)
-- **Backend:** Node.js (Express)
-- **Other:** Discord.js (for bot development integrating web concepts, fostering community)
-
-#### Featured Project 1: My LEAN Website
-
-A welcoming online hub dedicated to supporting LGBTQ+ communities, offering resources, guidance, and a safe space for connection, empowerment, and mutual support.
-
-- **Link:** Currently not public
-
-#### Featured Project 2: World-Changing Accessibility Project (JavaScript)
-
-EmpowerUI-lib is an open-source JavaScript library focused on making web interfaces more accessible and inclusive. It provides easy-to-use components and utilities that help developers build applications usable by everyone, with special attention to accessibility best practices and user empowerment.
-
-- **Link:** https://seristic.github.io/EmpowerUI-lib/
-
-### Data Science & AI Explorations 🧠💡
-
-Leveraging data to uncover insights and build intelligent systems:
-
-- **Languages & Tools:** Python (Pandas, NumPy, Scikit-learn), TensorFlow/PyTorch
-
----
-
-## My Achievements: Milestones Unlocked! 🏆
-
-Every line of code, every project, every contribution builds towards new achievements. Watch this space for my latest unlocked milestones!
-
-New Adventurer: Profile README created!
-
-First Commit: Made my mark on the codebase!
-
-Rising Star: Achieved 100+ total commits!
-
-Project Initiator: Created 5+ repositories!
-
-Eco-Warrior Initiate: Started my first environmental project!
-
-Knowledge Seeker: Explored 3+ programming languages!
-
-Open Source Contributor: Contributed to an external open-source project!
-
-Thousand Commits Explorer: Surpassed 1,000 commits!
-
-**VS Code Extension Creator:** Developed and deployed a personal VS Code extension! (This is a new achievement you can add!)
-
----
-
-## Mini-Challenge: Test Your Logic! 🧠🧩
-
-Ready for a quick mental exercise? Launch the Eco-Puzzle Challenge!
-
-Solve it to reveal a secret message, and perhaps a little more about building a better world for all!
-
----
-
-## 🌐 Ethical Hacking Simulator: Expose the Truth! 🚨
-
-Embark on a critical mission within a simulated terminal environment. This Python-based hacking puzzle challenges you to uncover confidential documents and expose the clandestine strategies of a fictional political party, Reform UK. Your goal: to reveal their hidden agendas against trans people, their financial backing, international connections, and the cynical dismissal of global crises like the war in Ukraine.
-
-**This simulator is designed to:**
-
-- **Highlight the importance of trans rights:** By exposing harmful policies and narratives.
-- **Champion democratic values:** By illustrating how disinformation and political manipulation can operate.
-- **Foster global solidarity:** By underscoring the interconnectedness of human rights and geopolitical issues.
-- **Inspire action:** Towards a more inclusive, just, and sustainable world for everyone.
-
-### 🎮 How to Play
-
-1.  **Navigate to the Simulator:**
-
-    ```bash
-    cd simulators/
-    ```
-
-2.  **Run the Game:**
-
-    ```bash
-    python hacking_puzzle.py
-    ```
-
-3.  **Follow the Prompts:** The game will guide you with instructions. Remember to use commands like `ls` (list directory), `cd` (change directory), `cat` (view file content), `access <target>` (to hack into systems), and `find <keyword>` (to search for files).
-
-### 📖 What You'll Uncover
-
-- **"Project Ostrich":** Their cynical strategy to avoid public confrontation while quietly implementing discriminatory policies.
-- **"Alpha-Omega Initiative":** A devastating plan to dismantle gender-affirming healthcare access, disguised as "NHS reform."
-- **"The Disinformation Nexus":** How their anti-trans propaganda is funded by shadowy entities and strategically disseminated.
-- **"The Global Web":** Their chilling connections to international anti-LGBTQ+ networks and illiberal movements, often aligning with anti-democratic sentiments and dismissive of global humanitarian needs.
-- **"The Human Cost":** Ultimately, you'll expose the party's dehumanizing views and cynical exploitation of individuals, triggering a massive simulated public leak.
-
-### ⚠️ Disclaimer
-
-This is a **fictional simulator** created for educational and advocacy purposes. It does not represent actual events, individuals, or organizations. Any resemblance to real entities is purely coincidental and serves to highlight the _types_ of issues and tactics encountered in real-world political discourse. The "Reform UK" in this simulator is a fictional entity, not to be confused with any existing political party.
-
----
-
-## My Current Expedition 🎮🎧✨
-
-What I'm coding, listening to, or playing right now – always with a touch of magic and authenticity.
+</div>
 
 <div align="center">
-    <a href="https://spotify-recently-played-readme.vercel.app/api?user=cp0izq575xpa95eni3wahr496">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=cp0izq575xpa95eni3wahr496" width="55%" alt="Spotify Recently Played" align="left">
-    </a>
-    <a href="https://lanyard.cnrad.dev/api/133251002047528960">
-        <img src="https://lanyard.cnrad.dev/api/133251002047528960?borderRadius=30px&showDisplayName=true&bg=212121&idleMessage=I%20am%20not%20currently%20doing%20anything.&theme=dark" width="40%" alt="Discord Status">
-    </a>
-    <div style="margin-top: 20px;" align="left">
-        <a href="https://wakatime.com/" style="margin-left: 20px;">
-            <img src="https://wakatime.com/badge/user/e5908274-55eb-45c5-93e4-f3277c04d440/project/e4fce1e1-e920-40db-9f79-b7e0e5140163.svg" alt="Wakatime State">
-        </a>
-    </div>
+
+# Alyssa Blackley
+
+_full stack developer · she/her · transfem dev_
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alyssa--blackley-C4708A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyssa-blackley/)
+[![X](https://img.shields.io/badge/X-@SeriKitsu-C4708A?style=flat-square&logo=x&logoColor=white)](https://x.com/SeriKitsu)
+[![Website](https://img.shields.io/badge/Web-seristic.com-C4708A?style=flat-square&logo=safari&logoColor=white)](https://seristic.com)
+[![Email](https://img.shields.io/badge/Email-contact@seristic.com-C4708A?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@seristic.com)
+
 </div>
 
 <br>
-<br>
-<br>
-<br>
-
 
 ---
 
-## My GitHub Stats 📊💖
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seristic&show_icons=true&theme=radical&hide_rank=true" alt="Alyssa's GitHub Stats" style="border-radius: 10px; margin: 5px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seristic&layout=compact&theme=radical" alt="Alyssa's Top Languages" style="border-radius: 10px; margin: 5px;" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seristic&theme=radical&hide_border=true" alt="Alyssa's GitHub Streak" style="border-radius: 10px; margin: 5px;" />
-</p>
+## about
+
+Self-taught engineer, coding since 15. Four years of university-level Computing. Eight years of turning complicated problems into clean, intuitive solutions — software that treats people as people.
+
+I specialise in full stack development with a focus on **accessibility**, **inclusive design**, and building tools for communities that the industry too often overlooks.
+
+**I care about:**
+
+- Accessibility-first design for marginalised communities
+- Open source contribution and collaboration
+- Clean, maintainable, purposeful code
+- LGBTQ+ advocacy through technology
+
+<br>
 
 ---
 
-## Connect with Me! 🤝🌈
+<br>
 
-Let's connect and build a greener, more innovative, and truly inclusive future together. As a transgender woman, I'm especially keen to collaborate on projects that uplift and empower marginalized communities. Feel free to reach out and let's create something beautiful!
+## stack
+
+### backend
+
+![Java](https://img.shields.io/badge/Java-C4708A?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-9B7BA6?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-C4708A?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-9B7BA6?style=flat-square&logo=c&logoColor=white)
+
+### frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-C4708A?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-9B7BA6?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-C4708A?style=flat-square&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-9B7BA6?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-C4708A?style=flat-square&logo=css3&logoColor=white)
+
+### infrastructure & tooling
+
+![Node.js](https://img.shields.io/badge/Node.js-C4708A?style=flat-square&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-9B7BA6?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-C4708A?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-9B7BA6?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-9B7BA6?style=flat-square&logo=git&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-C4708A?style=flat-square&logo=express&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-9B7BA6?style=flat-square&logo=axios&logoColor=white)
+
+<br>
+
+---
+
+<br>
+
+## featured projects
+
+| project                                                        | what it does                                                                            |
+| -------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| [**DeTURFer**](https://github.com/Seristic/DeTURFer)           | Analyses patterns in anti-trans harassment and coordinated bad-faith networks online    |
+| [**pronouns-api**](https://github.com/Seristic/pronouns-api)   | A clean, modern API for pronoun sets, identity metadata, and inclusive language tooling |
+| [**EmpowerUI-lib**](https://github.com/Seristic/EmpowerUI-lib) | Accessibility-first UI components designed to make the web usable for everyone          |
+| [**Prism-Flow**](https://github.com/Seristic/Prism-Flow)       | A styling toolkit for queer-positive interfaces — soft gradients and gentle energy      |
+
+<br>
+
+> 🌸 **in progress:** Minecraft modding, working on improving my mod Embrace.
+
+<br>
+
+---
+
+<br>
+
+## github stats
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seristic&layout=compact&theme=rose_pine&hide_border=true&langs_count=8&card_width=445&title_color=C4708A&text_color=6B5A63&bg_color=FDFBFC)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Seristic&theme=rose_pine&hide_border=true&ring=C4708A&fire=E8B4C8&currStreakLabel=9B7BA6)](https://git.io/streak-stats)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## achievements
+
+> _Updated automatically every 24 hours via GitHub Actions._
+
+<!-- ACHIEVEMENTS_START -->
+<!-- ACHIEVEMENTS_END -->
+
+<br>
+
+---
+
+<br>
+
+## skill tree
+
+> _Active languages light up based on your repositories — updated automatically._
+
+<div align="center">
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 340" width="500" height="340">
+  <defs>
+    <style>
+      text { font-family: 'Segoe UI', system-ui, sans-serif; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="500" height="340" rx="8" fill="#FDFBFC" stroke="#E8B4C8" stroke-width="1"/>
+
+  <!-- Title -->
+
+<text x="250" y="28" text-anchor="middle" font-size="11" font-weight="500" letter-spacing="2" fill="#C4708A">SKILL TREE</text>
+
+  <!-- ── Backend column (left) ── -->
+
+<text x="90" y="60" text-anchor="middle" font-size="9" letter-spacing="1.5" fill="#9B7BA6">BACKEND</text>
+
+  <!-- Java -->
+  <circle id="skill-java" cx="90" cy="90" r="22" fill="#cccccc"/>
+  <text x="90" y="94" text-anchor="middle" font-size="9" font-weight="500" fill="#ffffff">Java</text>
+
+  <!-- Python -->
+  <circle id="skill-python" cx="90" cy="155" r="22" fill="#cccccc"/>
+  <text x="90" y="159" text-anchor="middle" font-size="9" font-weight="500" fill="#ffffff">Python</text>
+
+  <!-- C++ -->
+  <circle id="skill-cpp" cx="90" cy="220" r="22" fill="#cccccc"/>
+  <text x="90" y="224" text-anchor="middle" font-size="9" font-weight="500" fill="#ffffff">C++</text>
+
+  <!-- C -->
+  <circle id="skill-c" cx="90" cy="285" r="22" fill="#cccccc"/>
+  <text x="90" y="289" text-anchor="middle" font-size="9" font-weight="500" fill="#ffffff">C</text>
+
+  <!-- Connectors (backend) -->
+  <line x1="90" y1="112" x2="90" y2="133" stroke="#E8B4C8" stroke-width="1" stroke-dasharray="3,3"/>
+  <line x1="90" y1="177" x2="90" y2="198" stroke="#E8B4C8" stroke-width="1" stroke-dasharray="3,3"/>
+  <line x1="90" y1="242" x2="90" y2="263" stroke="#E8B4C8" stroke-width="1" stroke-dasharray="3,3"/>
+
+  <!-- ── Frontend column (right) ── -->
+
+<text x="410" y="60" text-anchor="middle" font-size="9" letter-spacing="1.5" fill="#9B7BA6">FRONTEND</text>
+
+  <!-- TypeScript -->
+  <circle id="skill-typescript" cx="410" cy="90" r="22" fill="#cccccc"/>
+  <text x="410" y="94" text-anchor="middle" font-size="8" font-weight="500" fill="#ffffff">TS</text>
+
+  <!-- JavaScript -->
+  <circle id="skill-javascript" cx="410" cy="155" r="22" fill="#cccccc"/>
+  <text x="410" y="159" text-anchor="middle" font-size="8" font-weight="500" fill="#ffffff">JS</text>
+
+  <!-- React -->
+  <circle id="skill-react" cx="410" cy="220" r="22" fill="#cccccc"/>
+  <text x="410" y="224" text-anchor="middle" font-size="9" font-weight="500" fill="#ffffff">React</text>
+
+  <!-- HTML/CSS -->
+  <circle id="skill-html" cx="410" cy="285" r="22" fill="#cccccc"/>
+  <text x="410" y="289" text-anchor="middle" font-size="8" font-weight="500" fill="#ffffff">HTML</text>
+
+  <!-- Connectors (frontend) -->
+  <line x1="410" y1="112" x2="410" y2="133" stroke="#E8B4C8" stroke-width="1" stroke-dasharray="3,3"/>
+  <line x1="410" y1="177" x2="410" y2="198" stroke="#E8B4C8" stroke-width="1" stroke-dasharray="3,3"/>
+  <line x1="410" y1="242" x2="410" y2="263" stroke="#E8B4C8" stroke-width="1" stroke-dasharray="3,3"/>
+
+  <!-- ── Centre column (infrastructure) ── -->
+
+<text x="250" y="60" text-anchor="middle" font-size="9" letter-spacing="1.5" fill="#9B7BA6">INFRA</text>
+
+  <!-- Node.js -->
+  <circle id="skill-nodejs" cx="250" cy="100" r="26" fill="#cccccc"/>
+  <text x="250" y="104" text-anchor="middle" font-size="9" font-weight="500" fill="#ffffff">Node.js</text>
+
+  <!-- Docker -->
+  <circle id="skill-docker" cx="185" cy="185" r="22" fill="#cccccc"/>
+  <text x="185" y="189" text-anchor="middle" font-size="9" font-weight="500" fill="#ffffff">Docker</text>
+
+  <!-- AWS -->
+  <circle id="skill-aws" cx="315" cy="185" r="22" fill="#cccccc"/>
+  <text x="315" y="189" text-anchor="middle" font-size="9" font-weight="500" fill="#ffffff">AWS</text>
+
+  <!-- PostgreSQL -->
+  <circle id="skill-postgresql" cx="185" cy="270" r="22" fill="#cccccc"/>
+  <text x="185" y="274" text-anchor="middle" font-size="8" font-weight="500" fill="#ffffff">Postgres</text>
+
+  <!-- MongoDB -->
+  <circle id="skill-mongodb" cx="315" cy="270" r="22" fill="#cccccc"/>
+  <text x="315" y="274" text-anchor="middle" font-size="9" font-weight="500" fill="#ffffff">Mongo</text>
+
+  <!-- Connectors (centre) -->
+  <line x1="222" y1="118" x2="200" y2="165" stroke="#E8B4C8" stroke-width="1" stroke-dasharray="3,3"/>
+  <line x1="278" y1="118" x2="300" y2="165" stroke="#E8B4C8" stroke-width="1" stroke-dasharray="3,3"/>
+  <line x1="185" y1="207" x2="185" y2="248" stroke="#E8B4C8" stroke-width="1" stroke-dasharray="3,3"/>
+  <line x1="315" y1="207" x2="315" y2="248" stroke="#E8B4C8" stroke-width="1" stroke-dasharray="3,3"/>
+
+  <!-- Cross-connectors (backend to centre, frontend to centre) -->
+  <line x1="112" y1="90" x2="224" y2="100" stroke="#E8B4C8" stroke-width="1" stroke-dasharray="3,3"/>
+  <line x1="388" y1="90" x2="276" y2="100" stroke="#E8B4C8" stroke-width="1" stroke-dasharray="3,3"/>
+
+  <!-- Legend -->
+  <circle cx="170" cy="322" r="6" fill="#C4708A"/>
+  <text x="182" y="326" font-size="9" fill="#6B5A63">active</text>
+  <circle cx="230" cy="322" r="6" fill="#cccccc"/>
+  <text x="242" y="326" font-size="9" fill="#6B5A63">not yet detected</text>
+</svg>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## my stance
+
+I exist as a trans woman, and my work is shaped by that reality. I build tech because I refuse to let systems of power erase us — through discriminatory legislation, broken healthcare access, or state-sanctioned dehumanisation.
+
+**Trans people deserve:**
+
+- Bodily autonomy without government interference
+- Timely access to healthcare — not 5+ year waiting lists
+- Legal recognition without degrading assessments
+- Safety from state-sanctioned hate speech
+- The right to simply exist
+
+**Everyone deserves:**
+
+- Dignity, not means-tested survival
+- Functional legal pathways, not deliberately broken systems
+- Privacy, not surveillance states
+- Freedom to dissent without fear
+
+I use my code, my platform, and every skill I have to resist systems designed to dehumanise us. This isn't just activism — it's survival.
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+_Thanks for visiting. I hope my code makes you smile, helps you build something kind,_
+_or reminds you that trans people belong in tech — beautifully, loudly, and forever._
+
+<br>
+
+**be gentle. be rebellious. be you.** — _alyssa_ 🌸
+
+</div>
