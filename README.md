@@ -61,7 +61,6 @@ I specialise in full stack development with a focus on **accessibility**, **incl
 ![Docker](https://img.shields.io/badge/Docker-9B7BA6?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-C4708A?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-9B7BA6?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-C4708A?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-9B7BA6?style=flat-square&logo=git&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-C4708A?style=flat-square&logo=express&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-9B7BA6?style=flat-square&logo=axios&logoColor=white)
