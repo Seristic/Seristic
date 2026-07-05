@@ -1,17 +1,5 @@
 <div align="center">
 
-<br>
-
-<!-- Header typography via image-free approach using HTML in GH markdown -->
-
-```
-
-```
-
-</div>
-
-<div align="center">
-
 # Alyssa Blackley
 
 _full stack developer · she/her · transfem dev_
@@ -19,7 +7,7 @@ _full stack developer · she/her · transfem dev_
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alyssa--blackley-C4708A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyssa-blackley/)
-[![X](https://img.shields.io/badge/X-@SeriKitsu-C4708A?style=flat-square&logo=x&logoColor=white)](https://x.com/SeriKitsu)
+[![X](https://img.shields.io/badge/X-@MistySereen-C4708A?style=flat-square&logo=x&logoColor=white)](https://x.com/MistySereen)
 [![Website](https://img.shields.io/badge/Web-seristic.com-C4708A?style=flat-square&logo=safari&logoColor=white)](https://seristic.com)
 [![Email](https://img.shields.io/badge/Email-contact@seristic.com-C4708A?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@seristic.com)
 
@@ -73,6 +61,7 @@ I specialise in full stack development with a focus on **accessibility**, **incl
 ![Docker](https://img.shields.io/badge/Docker-9B7BA6?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-C4708A?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-9B7BA6?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-C4708A?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-9B7BA6?style=flat-square&logo=git&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-C4708A?style=flat-square&logo=express&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-9B7BA6?style=flat-square&logo=axios&logoColor=white)
@@ -94,23 +83,7 @@ I specialise in full stack development with a focus on **accessibility**, **incl
 
 <br>
 
-> 🌸 **in progress:** Minecraft modding, working on improving my mod Embrace.
-
-<br>
-
----
-
-<br>
-
-## github stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seristic&layout=compact&theme=rose_pine&hide_border=true&langs_count=8&card_width=445&title_color=C4708A&text_color=6B5A63&bg_color=FDFBFC)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Seristic&theme=rose_pine&hide_border=true&ring=C4708A&fire=E8B4C8&currStreakLabel=9B7BA6)](https://git.io/streak-stats)
-
-</div>
+> 🌸 **in progress:** Transfem Dev Portal — intersectional resources, tools, and identity-friendly dev utilities
 
 <br>
 
@@ -131,116 +104,13 @@ I specialise in full stack development with a focus on **accessibility**, **incl
 
 <br>
 
-## skill tree
-
-> _Active languages light up based on your repositories — updated automatically._
+## github stats
 
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 340" width="500" height="340">
-  <defs>
-    <style>
-      text { font-family: 'Segoe UI', system-ui, sans-serif; }
-    </style>
-  </defs>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seristic&layout=compact&theme=rose_pine&hide_border=true&langs_count=8&card_width=445&title_color=C4708A&text_color=6B5A63&bg_color=FDFBFC)
 
-  <!-- Background -->
-  <rect width="500" height="340" rx="8" fill="#FDFBFC" stroke="#E8B4C8" stroke-width="1"/>
-
-  <!-- Title -->
-
-<text x="250" y="28" text-anchor="middle" font-size="11" font-weight="500" letter-spacing="2" fill="#C4708A">SKILL TREE</text>
-
-  <!-- ── Backend column (left) ── -->
-
-<text x="90" y="60" text-anchor="middle" font-size="9" letter-spacing="1.5" fill="#9B7BA6">BACKEND</text>
-
-  <!-- Java -->
-  <circle id="skill-java" cx="90" cy="90" r="22" fill="#cccccc"/>
-  <text x="90" y="94" text-anchor="middle" font-size="9" font-weight="500" fill="#ffffff">Java</text>
-
-  <!-- Python -->
-  <circle id="skill-python" cx="90" cy="155" r="22" fill="#cccccc"/>
-  <text x="90" y="159" text-anchor="middle" font-size="9" font-weight="500" fill="#ffffff">Python</text>
-
-  <!-- C++ -->
-  <circle id="skill-cpp" cx="90" cy="220" r="22" fill="#cccccc"/>
-  <text x="90" y="224" text-anchor="middle" font-size="9" font-weight="500" fill="#ffffff">C++</text>
-
-  <!-- C -->
-  <circle id="skill-c" cx="90" cy="285" r="22" fill="#cccccc"/>
-  <text x="90" y="289" text-anchor="middle" font-size="9" font-weight="500" fill="#ffffff">C</text>
-
-  <!-- Connectors (backend) -->
-  <line x1="90" y1="112" x2="90" y2="133" stroke="#E8B4C8" stroke-width="1" stroke-dasharray="3,3"/>
-  <line x1="90" y1="177" x2="90" y2="198" stroke="#E8B4C8" stroke-width="1" stroke-dasharray="3,3"/>
-  <line x1="90" y1="242" x2="90" y2="263" stroke="#E8B4C8" stroke-width="1" stroke-dasharray="3,3"/>
-
-  <!-- ── Frontend column (right) ── -->
-
-<text x="410" y="60" text-anchor="middle" font-size="9" letter-spacing="1.5" fill="#9B7BA6">FRONTEND</text>
-
-  <!-- TypeScript -->
-  <circle id="skill-typescript" cx="410" cy="90" r="22" fill="#cccccc"/>
-  <text x="410" y="94" text-anchor="middle" font-size="8" font-weight="500" fill="#ffffff">TS</text>
-
-  <!-- JavaScript -->
-  <circle id="skill-javascript" cx="410" cy="155" r="22" fill="#cccccc"/>
-  <text x="410" y="159" text-anchor="middle" font-size="8" font-weight="500" fill="#ffffff">JS</text>
-
-  <!-- React -->
-  <circle id="skill-react" cx="410" cy="220" r="22" fill="#cccccc"/>
-  <text x="410" y="224" text-anchor="middle" font-size="9" font-weight="500" fill="#ffffff">React</text>
-
-  <!-- HTML/CSS -->
-  <circle id="skill-html" cx="410" cy="285" r="22" fill="#cccccc"/>
-  <text x="410" y="289" text-anchor="middle" font-size="8" font-weight="500" fill="#ffffff">HTML</text>
-
-  <!-- Connectors (frontend) -->
-  <line x1="410" y1="112" x2="410" y2="133" stroke="#E8B4C8" stroke-width="1" stroke-dasharray="3,3"/>
-  <line x1="410" y1="177" x2="410" y2="198" stroke="#E8B4C8" stroke-width="1" stroke-dasharray="3,3"/>
-  <line x1="410" y1="242" x2="410" y2="263" stroke="#E8B4C8" stroke-width="1" stroke-dasharray="3,3"/>
-
-  <!-- ── Centre column (infrastructure) ── -->
-
-<text x="250" y="60" text-anchor="middle" font-size="9" letter-spacing="1.5" fill="#9B7BA6">INFRA</text>
-
-  <!-- Node.js -->
-  <circle id="skill-nodejs" cx="250" cy="100" r="26" fill="#cccccc"/>
-  <text x="250" y="104" text-anchor="middle" font-size="9" font-weight="500" fill="#ffffff">Node.js</text>
-
-  <!-- Docker -->
-  <circle id="skill-docker" cx="185" cy="185" r="22" fill="#cccccc"/>
-  <text x="185" y="189" text-anchor="middle" font-size="9" font-weight="500" fill="#ffffff">Docker</text>
-
-  <!-- AWS -->
-  <circle id="skill-aws" cx="315" cy="185" r="22" fill="#cccccc"/>
-  <text x="315" y="189" text-anchor="middle" font-size="9" font-weight="500" fill="#ffffff">AWS</text>
-
-  <!-- PostgreSQL -->
-  <circle id="skill-postgresql" cx="185" cy="270" r="22" fill="#cccccc"/>
-  <text x="185" y="274" text-anchor="middle" font-size="8" font-weight="500" fill="#ffffff">Postgres</text>
-
-  <!-- MongoDB -->
-  <circle id="skill-mongodb" cx="315" cy="270" r="22" fill="#cccccc"/>
-  <text x="315" y="274" text-anchor="middle" font-size="9" font-weight="500" fill="#ffffff">Mongo</text>
-
-  <!-- Connectors (centre) -->
-  <line x1="222" y1="118" x2="200" y2="165" stroke="#E8B4C8" stroke-width="1" stroke-dasharray="3,3"/>
-  <line x1="278" y1="118" x2="300" y2="165" stroke="#E8B4C8" stroke-width="1" stroke-dasharray="3,3"/>
-  <line x1="185" y1="207" x2="185" y2="248" stroke="#E8B4C8" stroke-width="1" stroke-dasharray="3,3"/>
-  <line x1="315" y1="207" x2="315" y2="248" stroke="#E8B4C8" stroke-width="1" stroke-dasharray="3,3"/>
-
-  <!-- Cross-connectors (backend to centre, frontend to centre) -->
-  <line x1="112" y1="90" x2="224" y2="100" stroke="#E8B4C8" stroke-width="1" stroke-dasharray="3,3"/>
-  <line x1="388" y1="90" x2="276" y2="100" stroke="#E8B4C8" stroke-width="1" stroke-dasharray="3,3"/>
-
-  <!-- Legend -->
-  <circle cx="170" cy="322" r="6" fill="#C4708A"/>
-  <text x="182" y="326" font-size="9" fill="#6B5A63">active</text>
-  <circle cx="230" cy="322" r="6" fill="#cccccc"/>
-  <text x="242" y="326" font-size="9" fill="#6B5A63">not yet detected</text>
-</svg>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Seristic&theme=rose_pine&hide_border=true&ring=C4708A&fire=E8B4C8&currStreakLabel=9B7BA6)](https://git.io/streak-stats)
 
 </div>
 
