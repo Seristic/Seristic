@@ -76,7 +76,27 @@ Most of my work centres on **accessibility** and **inclusive design**: tools for
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Chtml%2Ccss%2Cnodejs%2Cexpress%2Cjava%2Cpy%2Ccpp%2Cc%2Cpostgres%2Cmongodb%2Cdocker%2Cgit%2Cgithubactions%2Ccmake%2Cgradle%2Cdiscordjs%2Cvscode&perline=10&theme=dark" alt="TypeScript, JavaScript, React, HTML, CSS, Node.js, Express, Java, Python, C++, C, PostgreSQL, MongoDB, Docker, Git, GitHub Actions, CMake, Gradle, Discord.js, VS Code" />
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" title="TypeScript" alt="TypeScript" />
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" title="JavaScript" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" title="React" alt="React" />
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" title="HTML5" alt="HTML5" />
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" title="CSS3" alt="CSS3" />
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" title="Node.js" alt="Node.js" />
+<img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" title="Express" alt="Express" />
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" title="Java" alt="Java" />
+<img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" title="Python" alt="Python" />
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" title="C++" alt="C++" />
+<br>
+<img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" title="C" alt="C" />
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" title="PostgreSQL" alt="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" title="MongoDB" alt="MongoDB" />
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" title="Docker" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" title="Git" alt="Git" />
+<img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" title="GitHub Actions" alt="GitHub Actions" />
+<img src="https://skillicons.dev/icons?i=cmake&theme=dark" width="48" title="CMake" alt="CMake" />
+<img src="https://skillicons.dev/icons?i=gradle&theme=dark" width="48" title="Gradle" alt="Gradle" />
+<img src="https://skillicons.dev/icons?i=discordjs&theme=dark" width="48" title="Discord.js" alt="Discord.js" />
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" title="VS Code" alt="VS Code" />
 
 </div>
 
@@ -140,8 +160,7 @@ I exist as a trans woman, and my work is shaped by that reality. I build tech be
 
 <div align="center">
 
-_Thanks for visiting. I hope my code makes you smile, helps you build something kind,_
-_or reminds you that trans people belong in tech, beautifully, loudly, and forever._
+_Thanks for visiting. I hope my code makes you smile, helps you build something kind!
 
 <br>
 
