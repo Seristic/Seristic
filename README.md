@@ -160,7 +160,7 @@ I exist as a trans woman, and my work is shaped by that reality. I build tech be
 
 <div align="center">
 
-_Thanks for visiting. I hope my code makes you smile, helps you build something kind!
+Thanks for visiting. I hope my code makes you smile, helps you build something kind!
 
 <br>
 
