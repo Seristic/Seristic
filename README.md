@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9789A,50:B05A7A,100:8C6A9E&height=210&section=header&text=Alyssa%20Blackley&fontColor=FFFFFF&fontSize=60&fontAlignY=36&desc=she%2Fher%20%C2%B7%20transfem%20dev&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Alyssa Blackley · she/her · transfem dev" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9789A,50:B05A7A,100:8C6A9E&height=210&section=header&text=Alyssa%20Blackley&fontColor=FFFFFF&fontSize=60&fontAlignY=36&desc=she%2Fher&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Alyssa Blackley · she/her" />
 
 <a href="https://seristic.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=C4708A&center=true&vCenter=true&width=520&lines=full+stack+developer;accessibility-first%2C+always;native+C%2B%2B+game+modding;building+tools+that+treat+people+as+people" alt="full stack developer · accessibility-first · native C++ game modding" />
@@ -137,7 +137,7 @@ Most of my work centres on **accessibility** and **inclusive design**: tools for
 <summary><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:B85C7E,100:8C6A9E&height=110&text=my%20stance&fontSize=46&fontColor=FFFFFF&fontAlignY=58" height="46" align="absmiddle" alt="my stance" /></summary>
 <br>
 
-I exist as a trans woman, and my work is shaped by that reality. I build tech because I refuse to let systems of power erase us, through discriminatory legislation, broken healthcare access, or state-sanctioned dehumanisation.
+I'm a woman. I build tech because I refuse to let systems of power erase trans people, through discriminatory legislation, broken healthcare access, or state-sanctioned dehumanisation.
 
 **Trans people deserve:**
 
@@ -154,15 +154,20 @@ I exist as a trans woman, and my work is shaped by that reality. I build tech be
 - Privacy, not surveillance states
 - Freedom to dissent without fear
 
+I use my code, my platform, and every skill I have to resist systems designed to dehumanise us. This isn't just activism, it's survival.
+
 </details>
 
 <br>
 
 <div align="center">
 
-Thanks for visiting. I hope my code makes you smile, helps you build something kind!
+_Thanks for visiting. I hope my code makes you smile, helps you build something kind,_
+_or reminds you that trans people belong in tech, beautifully, loudly, and forever._
 
 <br>
+
+**be gentle. be rebellious. be you.** - _alyssa_ 🌸
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8C6A9E,50:B05A7A,100:C9789A&height=120&section=footer" width="100%" alt="" />
 
