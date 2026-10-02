@@ -1,25 +1,25 @@
 <div align="center">
 
-# Alyssa Blackley
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9789A,50:B05A7A,100:8C6A9E&height=210&section=header&text=Alyssa%20Blackley&fontColor=FFFFFF&fontSize=60&fontAlignY=36&desc=she%2Fher%20%C2%B7%20transfem%20dev&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Alyssa Blackley · she/her · transfem dev" />
 
 <a href="https://seristic.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=C4708A&center=true&vCenter=true&width=520&lines=full+stack+developer;accessibility-first%2C+always;native+C%2B%2B+game+modding;building+tools+that+treat+people+as+people" alt="full stack developer · accessibility-first · native C++ game modding" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=C4708A&center=true&vCenter=true&width=520&lines=full+stack+developer;accessibility-first%2C+always;native+C%2B%2B+game+modding;building+tools+that+treat+people+as+people" alt="full stack developer · accessibility-first · native C++ game modding" />
 </a>
 
-_she/her · transfem dev_
+<br><br>
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alyssa--blackley-C4708A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyssa-blackley/)
-[![X](https://img.shields.io/badge/X-@MistySereen-C4708A?style=flat-square&logo=x&logoColor=white)](https://x.com/MistySereen)
-[![Website](https://img.shields.io/badge/Web-seristic.com-C4708A?style=flat-square&logo=safari&logoColor=white)](https://seristic.com)
-[![Email](https://img.shields.io/badge/Email-contact@seristic.com-C4708A?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@seristic.com)
+<a href="https://www.linkedin.com/in/alyssa-blackley/"><img src="https://img.shields.io/badge/LinkedIn-alyssa--blackley-B05A7A?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/MistySereen"><img src="https://img.shields.io/badge/X-@MistySereen-7E6496?style=flat&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://seristic.com"><img src="https://img.shields.io/badge/Web-seristic.com-B05A7A?style=flat&logo=safari&logoColor=white" alt="Website" /></a>
+<a href="mailto:contact@seristic.com"><img src="https://img.shields.io/badge/Email-contact@seristic.com-7E6496?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
 <br>
 
-## about me
+<details open>
+<summary><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:B85C7E,100:8C6A9E&height=110&text=about%20me&fontSize=46&fontColor=FFFFFF&fontAlignY=58" height="46" align="absmiddle" alt="about me" /></summary>
+<br>
 
 I'm a self-taught full stack developer. I started coding at 15, studied Computing at university level for four years, and have spent eight years turning complicated problems into clean, intuitive software.
 
@@ -31,41 +31,27 @@ Most of my work centres on **accessibility** and **inclusive design**: tools for
 - 💬 &nbsp;**Ask me about:** web accessibility, SKSE / CommonLibSSE-NG, Paper & Folia plugins, Discord bots, self-hosting
 - 📫 &nbsp;**Reach me:** [contact@seristic.com](mailto:contact@seristic.com)
 
+</details>
+
 <br>
 
-## featured projects
+<details open>
+<summary><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:8C6A9E,100:B85C7E&height=110&text=featured%20projects&fontSize=46&fontColor=FFFFFF&fontAlignY=58" height="46" align="absmiddle" alt="featured projects" /></summary>
+<br>
 
 <div align="center">
 
-<a href="https://github.com/Seristic/AutoSEQ">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Seristic&repo=AutoSEQ&bg_color=1C171B&title_color=E8B4C8&text_color=D9CCD3&icon_color=B79BC2&hide_border=true&border_radius=10">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Seristic&repo=AutoSEQ&bg_color=FDFBFC&title_color=C4708A&text_color=6B5A63&icon_color=9B7BA6&border_color=EADBE2&border_radius=10" alt="AutoSEQ" />
-  </picture>
-</a>
-<a href="https://github.com/Seristic/pronouns-api">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Seristic&repo=pronouns-api&bg_color=1C171B&title_color=E8B4C8&text_color=D9CCD3&icon_color=B79BC2&hide_border=true&border_radius=10">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Seristic&repo=pronouns-api&bg_color=FDFBFC&title_color=C4708A&text_color=6B5A63&icon_color=9B7BA6&border_color=EADBE2&border_radius=10" alt="pronouns-api" />
-  </picture>
-</a>
-<a href="https://github.com/Seristic/EmpowerUI-lib">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Seristic&repo=EmpowerUI-lib&bg_color=1C171B&title_color=E8B4C8&text_color=D9CCD3&icon_color=B79BC2&hide_border=true&border_radius=10">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Seristic&repo=EmpowerUI-lib&bg_color=FDFBFC&title_color=C4708A&text_color=6B5A63&icon_color=9B7BA6&border_color=EADBE2&border_radius=10" alt="EmpowerUI-lib" />
-  </picture>
-</a>
-<a href="https://github.com/Seristic/Prism-Flow">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Seristic&repo=Prism-Flow&bg_color=1C171B&title_color=E8B4C8&text_color=D9CCD3&icon_color=B79BC2&hide_border=true&border_radius=10">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Seristic&repo=Prism-Flow&bg_color=FDFBFC&title_color=C4708A&text_color=6B5A63&icon_color=9B7BA6&border_color=EADBE2&border_radius=10" alt="Prism-Flow" />
-  </picture>
-</a>
+<a href="https://github.com/Seristic/AutoSEQ"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Seristic&repo=AutoSEQ&bg_color=211B26&title_color=F4B6CF&text_color=F2E9EE&icon_color=E0C8EA&hide_border=true&border_radius=18" alt="AutoSEQ" /></a>
+<a href="https://github.com/Seristic/pronouns-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Seristic&repo=pronouns-api&bg_color=211B26&title_color=F4B6CF&text_color=F2E9EE&icon_color=E0C8EA&hide_border=true&border_radius=18" alt="pronouns-api" /></a>
+<a href="https://github.com/Seristic/EmpowerUI-lib"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Seristic&repo=EmpowerUI-lib&bg_color=211B26&title_color=F4B6CF&text_color=F2E9EE&icon_color=E0C8EA&hide_border=true&border_radius=18" alt="EmpowerUI-lib" /></a>
+<a href="https://github.com/Seristic/Prism-Flow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Seristic&repo=Prism-Flow&bg_color=211B26&title_color=F4B6CF&text_color=F2E9EE&icon_color=E0C8EA&hide_border=true&border_radius=18" alt="Prism-Flow" /></a>
 
 </div>
 
+<br>
+
 <details>
-<summary><b>more things I've built</b></summary>
+<summary><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:F3D3DF,100:D9C4E0&height=110&text=more%20things%20I've%20built&fontSize=42&fontColor=3F2F39&fontAlignY=58" height="34" align="absmiddle" alt="more things I've built" /></summary>
 <br>
 
 | project | what it does |
@@ -80,21 +66,24 @@ Most of my work centres on **accessibility** and **inclusive design**: tools for
 
 </details>
 
+</details>
+
 <br>
 
-## tech stack
+<details open>
+<summary><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:A8577B,100:7C6293&height=110&text=tech%20stack&fontSize=46&fontColor=FFFFFF&fontAlignY=58" height="46" align="absmiddle" alt="tech stack" /></summary>
+<br>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,html,css,nodejs,express,java,py,cpp,c,postgres,mongodb,docker,git,githubactions,cmake,gradle,discordjs,vscode&perline=10&theme=dark">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,nodejs,express,java,py,cpp,c,postgres,mongodb,docker,git,githubactions,cmake,gradle,discordjs,vscode&perline=10&theme=light" alt="TypeScript, JavaScript, React, HTML, CSS, Node.js, Express, Java, Python, C++, C, PostgreSQL, MongoDB, Docker, Git, GitHub Actions, CMake, Gradle, Discord.js, VS Code" />
-</picture>
+<img src="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Chtml%2Ccss%2Cnodejs%2Cexpress%2Cjava%2Cpy%2Ccpp%2Cc%2Cpostgres%2Cmongodb%2Cdocker%2Cgit%2Cgithubactions%2Ccmake%2Cgradle%2Cdiscordjs%2Cvscode&perline=10&theme=dark" alt="TypeScript, JavaScript, React, HTML, CSS, Node.js, Express, Java, Python, C++, C, PostgreSQL, MongoDB, Docker, Git, GitHub Actions, CMake, Gradle, Discord.js, VS Code" />
 
 </div>
 
+<br>
+
 <details>
-<summary><b>by area</b></summary>
+<summary><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:F3D3DF,100:D9C4E0&height=110&text=by%20area&fontSize=42&fontColor=3F2F39&fontAlignY=58" height="34" align="absmiddle" alt="by area" /></summary>
 <br>
 
 - **Frontend:** TypeScript, JavaScript, React, HTML, CSS
@@ -104,45 +93,36 @@ Most of my work centres on **accessibility** and **inclusive design**: tools for
 
 </details>
 
+</details>
+
 <br>
 
-## github stats
+<details>
+<summary><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:7C6293,100:A8577B&height=110&text=github%20stats&fontSize=46&fontColor=FFFFFF&fontAlignY=58" height="46" align="absmiddle" alt="github stats" /></summary>
+<br>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Seristic&layout=compact&langs_count=8&card_width=445&hide_border=true&bg_color=1C171B&title_color=E8B4C8&text_color=D9CCD3">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seristic&layout=compact&langs_count=8&card_width=445&hide_border=true&bg_color=FDFBFC&title_color=C4708A&text_color=6B5A63" alt="Most used languages" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seristic&layout=compact&langs_count=8&card_width=445&hide_border=true&border_radius=18&bg_color=211B26&title_color=F4B6CF&text_color=F2E9EE" alt="Most used languages" />
 
-<a href="https://git.io/streak-stats">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Seristic&hide_border=true&background=1C171B&ring=C4708A&fire=E8B4C8&currStreakLabel=E8B4C8&currStreakNum=D9CCD3&sideNums=D9CCD3&sideLabels=B79BC2&dates=9C8E96&stroke=3A3138">
-    <img src="https://streak-stats.demolab.com/?user=Seristic&hide_border=true&background=FDFBFC&ring=C4708A&fire=E8B4C8&currStreakLabel=9B7BA6&currStreakNum=6B5A63&sideNums=6B5A63&sideLabels=9B7BA6&dates=8A7A83&stroke=EADBE2" alt="GitHub streak" />
-  </picture>
-</a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Seristic&hide_border=true&border_radius=18&background=211B26&ring=E58FB0&fire=F4B6CF&currStreakLabel=F4B6CF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=E0C8EA&dates=C9BBC4&stroke=4A3D52" alt="GitHub streak" /></a>
 
 </div>
 
-<br>
-
-## achievements
-
-> _Updated automatically every 24 hours via GitHub Actions._
-
-<!-- ACHIEVEMENTS_START -->
-<!-- ACHIEVEMENTS_END -->
+</details>
 
 <br>
 
-## my stance
+<details open>
+<summary><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:B85C7E,100:8C6A9E&height=110&text=my%20stance&fontSize=46&fontColor=FFFFFF&fontAlignY=58" height="46" align="absmiddle" alt="my stance" /></summary>
+<br>
 
-I exist as a trans woman, and my work is shaped by that reality. I build tech because I refuse to let systems of power erase us — through discriminatory legislation, broken healthcare access, or state-sanctioned dehumanisation.
+I exist as a trans woman, and my work is shaped by that reality. I build tech because I refuse to let systems of power erase us, through discriminatory legislation, broken healthcare access, or state-sanctioned dehumanisation.
 
 **Trans people deserve:**
 
 - Bodily autonomy without government interference
-- Timely access to healthcare — not 5+ year waiting lists
+- Timely access to healthcare, not 5+ year waiting lists
 - Legal recognition without degrading assessments
 - Safety from state-sanctioned hate speech
 - The right to simply exist
@@ -154,19 +134,17 @@ I exist as a trans woman, and my work is shaped by that reality. I build tech be
 - Privacy, not surveillance states
 - Freedom to dissent without fear
 
-I use my code, my platform, and every skill I have to resist systems designed to dehumanise us. This isn't just activism — it's survival.
+</details>
 
 <br>
-
----
 
 <div align="center">
 
 _Thanks for visiting. I hope my code makes you smile, helps you build something kind,_
-_or reminds you that trans people belong in tech — beautifully, loudly, and forever._
+_or reminds you that trans people belong in tech, beautifully, loudly, and forever._
 
 <br>
 
-**be gentle. be rebellious. be you.** — _alyssa_ 🌸
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8C6A9E,50:B05A7A,100:C9789A&height=120&section=footer" width="100%" alt="" />
 
 </div>
