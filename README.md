@@ -154,16 +154,13 @@ I'm a woman. I build tech because I refuse to let systems of power erase trans p
 - Privacy, not surveillance states
 - Freedom to dissent without fear
 
-I use my code, my platform, and every skill I have to resist systems designed to dehumanise us. This isn't just activism, it's survival.
-
 </details>
 
 <br>
 
 <div align="center">
 
-_Thanks for visiting. I hope my code makes you smile, helps you build something kind,_
-_or reminds you that trans people belong in tech, beautifully, loudly, and forever._
+_Thanks for visiting. I hope my code makes you smile, helps you build something kind!_
 
 <br>
 
