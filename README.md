@@ -2,7 +2,11 @@
 
 # Alyssa Blackley
 
-_full stack developer · she/her · transfem dev_
+<a href="https://seristic.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=C4708A&center=true&vCenter=true&width=520&lines=full+stack+developer;accessibility-first%2C+always;native+C%2B%2B+game+modding;building+tools+that+treat+people+as+people" alt="full stack developer · accessibility-first · native C++ game modding" />
+</a>
+
+_she/her · transfem dev_
 
 <br>
 
@@ -15,78 +19,110 @@ _full stack developer · she/her · transfem dev_
 
 <br>
 
----
+## about me
 
-<br>
+I'm a self-taught full stack developer. I started coding at 15, studied Computing at university level for four years, and have spent eight years turning complicated problems into clean, intuitive software.
 
-## about
+Most of my work centres on **accessibility** and **inclusive design**: tools for communities the industry too often overlooks. Away from the web, I write native C++ plugins for Skyrim, build Minecraft server plugins and mods, run Discord bots for my modding community, and keep a homelab where I'm building a voice assistant that runs on my own hardware.
 
-Self-taught engineer, coding since 15. Four years of university-level Computing. Eight years of turning complicated problems into clean, intuitive solutions — software that treats people as people.
-
-I specialise in full stack development with a focus on **accessibility**, **inclusive design**, and building tools for communities that the industry too often overlooks.
-
-**I care about:**
-
-- Accessibility-first design for marginalised communities
-- Open source contribution and collaboration
-- Clean, maintainable, purposeful code
-- LGBTQ+ advocacy through technology
-
-<br>
-
----
-
-<br>
-
-## stack
-
-### backend
-
-![Java](https://img.shields.io/badge/Java-C4708A?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-9B7BA6?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-C4708A?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-9B7BA6?style=flat-square&logo=c&logoColor=white)
-
-### frontend
-
-![TypeScript](https://img.shields.io/badge/TypeScript-C4708A?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-9B7BA6?style=flat-square&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-C4708A?style=flat-square&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-9B7BA6?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-C4708A?style=flat-square&logo=css3&logoColor=white)
-
-### infrastructure & tooling
-
-![Node.js](https://img.shields.io/badge/Node.js-C4708A?style=flat-square&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-9B7BA6?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-C4708A?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-9B7BA6?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-9B7BA6?style=flat-square&logo=git&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-C4708A?style=flat-square&logo=express&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-9B7BA6?style=flat-square&logo=axios&logoColor=white)
-
-<br>
-
----
+- 🔭 &nbsp;**Building:** [AutoSEQ](https://github.com/Seristic/AutoSEQ), Mortal Needs (native survival needs for Skyrim), and Peggy, my self-hosted voice assistant
+- 🌸 &nbsp;**In progress:** Transfem Dev Portal: intersectional resources, tools, and identity-friendly dev utilities
+- ♿ &nbsp;**I care about:** accessibility-first design, open source, clean and maintainable code, and LGBTQ+ advocacy through technology
+- 💬 &nbsp;**Ask me about:** web accessibility, SKSE / CommonLibSSE-NG, Paper & Folia plugins, Discord bots, self-hosting
+- 📫 &nbsp;**Reach me:** [contact@seristic.com](mailto:contact@seristic.com)
 
 <br>
 
 ## featured projects
 
-| project                                                        | what it does                                                                            |
-| -------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| [**DeTURFer**](https://github.com/Seristic/DeTURFer)           | Analyses patterns in anti-trans harassment and coordinated bad-faith networks online    |
-| [**pronouns-api**](https://github.com/Seristic/pronouns-api)   | A clean, modern API for pronoun sets, identity metadata, and inclusive language tooling |
-| [**EmpowerUI-lib**](https://github.com/Seristic/EmpowerUI-lib) | Accessibility-first UI components designed to make the web usable for everyone          |
-| [**Prism-Flow**](https://github.com/Seristic/Prism-Flow)       | A styling toolkit for queer-positive interfaces — soft gradients and gentle energy      |
+<div align="center">
+
+<a href="https://github.com/Seristic/AutoSEQ">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Seristic&repo=AutoSEQ&bg_color=1C171B&title_color=E8B4C8&text_color=D9CCD3&icon_color=B79BC2&hide_border=true&border_radius=10">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Seristic&repo=AutoSEQ&bg_color=FDFBFC&title_color=C4708A&text_color=6B5A63&icon_color=9B7BA6&border_color=EADBE2&border_radius=10" alt="AutoSEQ" />
+  </picture>
+</a>
+<a href="https://github.com/Seristic/pronouns-api">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Seristic&repo=pronouns-api&bg_color=1C171B&title_color=E8B4C8&text_color=D9CCD3&icon_color=B79BC2&hide_border=true&border_radius=10">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Seristic&repo=pronouns-api&bg_color=FDFBFC&title_color=C4708A&text_color=6B5A63&icon_color=9B7BA6&border_color=EADBE2&border_radius=10" alt="pronouns-api" />
+  </picture>
+</a>
+<a href="https://github.com/Seristic/EmpowerUI-lib">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Seristic&repo=EmpowerUI-lib&bg_color=1C171B&title_color=E8B4C8&text_color=D9CCD3&icon_color=B79BC2&hide_border=true&border_radius=10">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Seristic&repo=EmpowerUI-lib&bg_color=FDFBFC&title_color=C4708A&text_color=6B5A63&icon_color=9B7BA6&border_color=EADBE2&border_radius=10" alt="EmpowerUI-lib" />
+  </picture>
+</a>
+<a href="https://github.com/Seristic/Prism-Flow">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Seristic&repo=Prism-Flow&bg_color=1C171B&title_color=E8B4C8&text_color=D9CCD3&icon_color=B79BC2&hide_border=true&border_radius=10">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Seristic&repo=Prism-Flow&bg_color=FDFBFC&title_color=C4708A&text_color=6B5A63&icon_color=9B7BA6&border_color=EADBE2&border_radius=10" alt="Prism-Flow" />
+  </picture>
+</a>
+
+</div>
+
+<details>
+<summary><b>more things I've built</b></summary>
+<br>
+
+| project | what it does |
+| --- | --- |
+| [**DeTURFer**](https://github.com/Seristic/DeTURFer) | Browser tool that blurs or replaces Reform UK and other transphobic content on the web |
+| [**LagX**](https://github.com/Seristic/LagX) | Server optimisation plugin for Paper and Folia Minecraft servers |
+| [**Minecraft Development Plugin**](https://github.com/Seristic/Minecraft-Development-Plugin) | VS Code extension bringing IntelliJ-style Minecraft dev tooling to VS Code |
+| [**MorphLib**](https://github.com/Seristic/MorphLib) | NeoForge / Fabric library mod for managing player body proportions |
+| [**Badges**](https://github.com/Seristic/Badges) | Collectable, customisable chat badges for community and roleplay servers |
+| [**Eagle of Diplomacy**](https://github.com/Seristic/Eagle-of-Diplomacy) | Discord bot for managing treaties, claim maps and foreign relations on HBZ Earth |
+| [**AI Image Organizer**](https://github.com/Seristic/AI-Image-Organizer) | Detects what's in an image and renames files to match |
+
+</details>
 
 <br>
 
-> 🌸 **in progress:** Transfem Dev Portal — intersectional resources, tools, and identity-friendly dev utilities
+## tech stack
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,html,css,nodejs,express,java,py,cpp,c,postgres,mongodb,docker,git,githubactions,cmake,gradle,discordjs,vscode&perline=10&theme=dark">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,nodejs,express,java,py,cpp,c,postgres,mongodb,docker,git,githubactions,cmake,gradle,discordjs,vscode&perline=10&theme=light" alt="TypeScript, JavaScript, React, HTML, CSS, Node.js, Express, Java, Python, C++, C, PostgreSQL, MongoDB, Docker, Git, GitHub Actions, CMake, Gradle, Discord.js, VS Code" />
+</picture>
+
+</div>
+
+<details>
+<summary><b>by area</b></summary>
+<br>
+
+- **Frontend:** TypeScript, JavaScript, React, HTML, CSS
+- **Backend:** Node.js, Express, Java, Python, PostgreSQL, MongoDB
+- **Systems & modding:** C++, C, CMake, vcpkg, SKSE / CommonLibSSE-NG, Paper / Folia, NeoForge / Fabric
+- **Infrastructure:** Docker, GitHub Actions, self-hosted LLMs with Ollama
+
+</details>
 
 <br>
 
----
+## github stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Seristic&layout=compact&langs_count=8&card_width=445&hide_border=true&bg_color=1C171B&title_color=E8B4C8&text_color=D9CCD3">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seristic&layout=compact&langs_count=8&card_width=445&hide_border=true&bg_color=FDFBFC&title_color=C4708A&text_color=6B5A63" alt="Most used languages" />
+</picture>
+
+<a href="https://git.io/streak-stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Seristic&hide_border=true&background=1C171B&ring=C4708A&fire=E8B4C8&currStreakLabel=E8B4C8&currStreakNum=D9CCD3&sideNums=D9CCD3&sideLabels=B79BC2&dates=9C8E96&stroke=3A3138">
+    <img src="https://streak-stats.demolab.com/?user=Seristic&hide_border=true&background=FDFBFC&ring=C4708A&fire=E8B4C8&currStreakLabel=9B7BA6&currStreakNum=6B5A63&sideNums=6B5A63&sideLabels=9B7BA6&dates=8A7A83&stroke=EADBE2" alt="GitHub streak" />
+  </picture>
+</a>
+
+</div>
 
 <br>
 
@@ -96,26 +132,6 @@ I specialise in full stack development with a focus on **accessibility**, **incl
 
 <!-- ACHIEVEMENTS_START -->
 <!-- ACHIEVEMENTS_END -->
-
-<br>
-
----
-
-<br>
-
-## github stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seristic&layout=compact&theme=rose_pine&hide_border=true&langs_count=8&card_width=445&title_color=C4708A&text_color=6B5A63&bg_color=FDFBFC)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Seristic&theme=rose_pine&hide_border=true&ring=C4708A&fire=E8B4C8&currStreakLabel=9B7BA6)](https://git.io/streak-stats)
-
-</div>
-
-<br>
-
----
 
 <br>
 
@@ -143,8 +159,6 @@ I use my code, my platform, and every skill I have to resist systems designed to
 <br>
 
 ---
-
-<br>
 
 <div align="center">
 
